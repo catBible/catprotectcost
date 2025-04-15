@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/cat-protect-3f5a9",
+    "public": "dist/cat-protect",
     "ignore": [
       "firebase.json",
       "**/.*",
